@@ -1,4 +1,4 @@
 <dependency> I'm Dev 1
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-starter-openfeign</artifactId>
-</dependency>
+</dependency> I'm Dev2
